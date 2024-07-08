@@ -1,0 +1,16 @@
+{
+    "dataset_type": "audio_dir",
+    "datasets": [
+        {
+            "id": "glitchcool1",
+            "path": "/workspace/dataset/Glitch With Friends+",
+            "custom_metadata_module": "/workspace/dataset.py"
+        },
+        {
+            "id": "glitchcool2",
+            "path": "/workspace/dataset/Glitch With Friends- Samples Vol. 2",
+            "custom_metadata_module": "/workspace/dataset.py"
+        }
+    ],
+    "random_crop": false
+}
